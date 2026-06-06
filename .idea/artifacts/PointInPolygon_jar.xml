@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PointInPolygon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PointInPolygon_jar</output-path>
+    <root id="archive" name="PointInPolygon.jar">
+      <element id="module-output" name="PointInPolygon" />
+    </root>
+  </artifact>
+</component>
