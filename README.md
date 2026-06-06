@@ -1,4 +1,3 @@
-```markdown
 # Point in Polygon - Parallel Programming 🎯
 
 Bu proje, rastgele oluşturulan devasa bir çokgenin (poligonun) içine düşen noktaları tespit eden **Ray Casting (Işın Dökümü)** algoritmasının, Java kullanılarak paralelleştirilmiş çözümünü içermektedir.
@@ -16,8 +15,6 @@ Projeyi çalıştırmak için sisteminizde **Java 17 veya üzeri** yüklü olmal
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
        git clone [https://github.com/MATEXIEL/PointInPolygon-BTUParallelProgramming.git](https://github.com/MATEXIEL/PointInPolygon-BTUParallelProgramming.git)
-
-```
 
 2. IntelliJ IDEA veya tercih ettiğiniz bir IDE ile projeyi açıp `src/Main.java` dosyasını çalıştırabilirsiniz.
 3. Alternatif olarak, derlenmiş `.jar` dosyasını terminal üzerinden doğrudan çalıştırabilirsiniz:
