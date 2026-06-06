@@ -31,5 +31,3 @@ java -jar PointInPolygon.jar
 ## 📊 Deneysel Sonuçlar
 
 Testler (AMD Ryzen 7 6800H - 16 Thread) sonucunda, artan iş yüküyle birlikte paralelleştirmenin gücü ortaya çıkmış; ağır yük altında (50.000 kenarlı poligon ve 500.000 test noktası) yaklaşık **~6 kat (5.98x) hızlanma** elde edilmiştir.
-
-```
