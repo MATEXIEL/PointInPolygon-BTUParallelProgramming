@@ -1,6 +1,7 @@
 # Point in Polygon - Parallel Programming 🎯
 
 Bu proje, rastgele oluşturulan devasa bir çokgenin (poligonun) içine düşen noktaları tespit eden **Ray Casting (Işın Dökümü)** algoritmasının, Java kullanılarak paralelleştirilmiş çözümünü içermektedir.
+Proje tanıtım videosu: https://youtu.be/5nbHoeipWH8
 
 ## 🚀 Özellikler
 
